@@ -1,7 +1,7 @@
 ### Olá, me chamo Mikaelisson!
 
 
-- 🌱 Estudando Express.js 
+- 👨🏻‍💻 Estudando React.js 
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
