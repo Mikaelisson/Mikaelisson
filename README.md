@@ -1,8 +1,9 @@
 ### Olá, me chamo Mikaelisson!
 
 
-- 👨🏻‍💻 Estudando React.js 
-- ⚡ Cursando Análise e Desenvolvimento de Sistemas
+- 👨🏻‍💻 Estudando React.js, mongoDB e Javascript
+- 📙 Cursando Análise e Desenvolvimento de Sistemas
+- 📙 Cursando Desenvolvimento Web Fullstack (curso programadorbr)
 
 <div align="center">
   <a href="https://github.com/Mikaelisson">
@@ -10,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">          
